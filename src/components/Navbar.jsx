@@ -42,7 +42,7 @@ function Navbar() {
             />
           </div>
 
-          <div className="hidden sm:block">
+          <div className="">
             <p className="text-base font-bold tracking-[0.14em] text-white">
               CYSSDR
             </p>
